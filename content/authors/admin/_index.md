@@ -7,7 +7,7 @@ education:
   - course: PhD in Astrophysics
     institution: Massachusetts Institute of Technology
     year: 1972
-  - course: MEng in Astrophysics
+  - course: MPS in Natural Disasters
     institution: California Institute of Technology
     year: 1969
   - course: BSc in Astrophysics
