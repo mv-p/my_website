@@ -4,16 +4,13 @@ authors:
 bio: I am a PhD student at the University of Miami in the Marine Ecosystems and Society Department
 education:
   courses:
-  - course: PhD in Astrophysics
-    institution: Massachusetts Institute of Technology
-    year: 1972
   - course: MPS in Natural Disasters
-    institution: California Institute of Technology
-    year: 1969
-  - course: BSc in Astrophysics
-    institution: California Institute of Technology
-    year: 1968
-email: ""
+    institution: University of Miami
+    year: 2018
+  - course: BSc in Mathematics and Economics
+    institution: University of Miami
+    year: 2016
+email: "mvarkony@rsmas.miami.edu"
 interests:
 - Interdimensional travel 
 - Existential nihilism 
