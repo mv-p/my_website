@@ -1,19 +1,19 @@
 Notes for Website Workshop
 
-1. I would have students make the new project as the very first thing they do. Then they can install ''blogdown'' and ''hugo'' from a created script that is within their new project template folder. 
+1. I would have students make the new project as the very first thing they do. Then they can install ''blogdown'' and ''hugo'' from a created script that is within their new project template folder.
 
-2. Under personalizing template widgets Academic is supposed to be accomplishments I think 
+2. Under personalizing template widgets Academic is supposed to be accomplishments I think
 
-3. Under add a post the path of content/posts should be content/post (no s) 
+3. Under add a post the path of content/posts should be content/post (no s)
 
 4. Under add a post there says 2 folders, but there are 3
 
-5. Need to rebuild website when adding the pics for page bundles 
+5. Need to rebuild website when adding the pics for page bundles
 
-6. When clicking publications link it doesn't take me to the publications section. 
+6. When clicking publications link it doesn't take me to the publications section.
 
 7. Do we need to keep the folder we created on our desktop once it has been copied into the GIT repository?
 
 8. Do we only work in the academic.Rproj when making changes in the future?
 
-9. 
+9. Why not just have individuals install the necessary packages and then go straight to creating a netlify account and launching with GIT and then work within that folder ?

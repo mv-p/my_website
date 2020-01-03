@@ -18,7 +18,7 @@ interests:
 - Interdimensional travel 
 - Existential nihilism 
 - Mulan szechuan teriyaki dipping sauce
-name: Rick Sanchez
+name: Matthew Varkony
 organizations:
 - name: Smith's Residence
   url: ""
