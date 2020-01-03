@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: I am an independent scientist and multiverse explorer.
+bio: I am a PhD student at the University of Miami in the Marine Ecosystems and Society Department
 education:
   courses:
   - course: PhD in Astrophysics
