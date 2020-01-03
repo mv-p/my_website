@@ -42,6 +42,6 @@ user_groups:
 - Visitors
 ---
 
-Rick Sanchez from Earth dimension C-137 is the father of Beth Smith, and the grandfather of Morty Smith and Summer Smith. 
+Matthew Varkony is a PhD student at the University of Miami. He is in the Marine Ecosystems and Society Department on the RSMAS campus. He studies climate risk, analyzing how individuals respond to catastrophic hurricane events. 
 
 He is the co-eponymous main character and leading protagonist of the show. He is a genius scientist whose alcoholism and reckless, nihilistic behavior are a source of concern for his daughter's family, as well as the safety of their son, Morty. He is voiced by Justin Roiland..
