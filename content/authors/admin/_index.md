@@ -21,7 +21,7 @@ interests:
 name: Matthew Varkony
 organizations: 
 - name: University of Miami
-  url: "rsmas.miami.edu"
+  url: "rsmas.miami.edu/"
 role: PhD Student and Research Assistant
 social:
 - icon: envelope
