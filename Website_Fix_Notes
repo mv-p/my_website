@@ -17,3 +17,10 @@ Notes for Website Workshop
 8. Do we only work in the academic.Rproj when making changes in the future?
 
 9. Why not just have individuals install the necessary packages and then go straight to creating a netlify account and launching with GIT and then work within that folder ?
+
+
+Dates:: March 18, 2020
+Tasks:
+  1. Setup GIT in R
+
+  2. Write the steps to clone and write website to r
