@@ -12,33 +12,34 @@ education:
     year: 2016
 email: "mvarkony@rsmas.miami.edu"
 interests:
-- Interdimensional travel 
-- Existential nihilism 
-- Mulan szechuan teriyaki dipping sauce
+- Climate Risk
+- Extreme Weather Events
+- Adaptation and Mitigating Incentives 
 name: Matthew Varkony
 organizations:
-- name: Smith's Residence
-  url: ""
-role: Independent scientist
+- name: University of Miami
+  url: "https://www.rsmas.miami.edu""
+role: PhD Student and Research Assistant 
 social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/rickandmorty?lang=en
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=CUPggKoAAAAJ&hl=en
+  link: https://twitter.com/mv_p_
 - icon: github
   icon_pack: fab
-  link: https://github.com/afuh/rick-and-morty-api
+  link: https://github.com/mv-p
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/mvarkony/
 superuser: true
 user_groups:
 - Researchers
 - Visitors
 ---
 
-Matthew Varkony is a PhD student at the University of Miami. He is in the Marine Ecosystems and Society Department on the RSMAS campus. He studies climate risk, analyzing how individuals respond to catastrophic hurricane events. 
+Matthew Varkony is a PhD student at the University of Miami. He is in the Marine Ecosystems and Society Department at the Rosenstiel School of Marine and Atmospheric Sciences campus for the University of Miami. His research interests aim to understand how coastal communities respond to catastrophic climate events. He investigates the mechanisms influencing how decision makers respond to climate risks. 
 
-He is the co-eponymous main character and leading protagonist of the show. He is a genius scientist whose alcoholism and reckless, nihilistic behavior are a source of concern for his daughter's family, as well as the safety of their son, Morty. He is voiced by Justin Roiland..
+Matt is originally from Denver, CO but has lived in South Florida for the past 8 years. He majored in mathematics and economics at the University of Miami and went on to obtain his Masters in Professional Science studying Natural Hazards at UM.  
+
